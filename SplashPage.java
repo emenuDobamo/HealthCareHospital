@@ -25,6 +25,7 @@ package finalProject.healthCareHospital;
 	            "http://fxexperience.com/wp-content/uploads/2010/06/logo.png";
 
 	    private Pane splashLayout;
+	    public int a;
 	    private ProgressBar loadProgress;
 	    private Label progressText;
 	    private Stage mainStage;
